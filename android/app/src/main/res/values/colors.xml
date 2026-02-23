@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Catppuccin Mocha palette for primary colors -->
+    <color name="primary">#89b4fa</color>          <!-- Blue -->
+    <color name="on_primary">#1e1e2e</color>        <!-- Crust -->
+    <color name="primary_container">#313244</color> <!-- Surface0 -->
+    <color name="secondary">#cba6f7</color>         <!-- Mauve -->
+    <color name="background">#1e1e2e</color>        <!-- Base -->
+    <color name="surface">#181825</color>           <!-- Mantle -->
+    <color name="on_surface">#cdd6f4</color>        <!-- Text -->
+    <color name="on_surface_variant">#a6adc8</color><!-- Subtext1 -->
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Vibedroid</string>
+    <string name="hint_name">Connection name (e.g. "WSL Dev")</string>
+    <string name="hint_host">Tailscale IP (e.g. 100.x.x.x)</string>
+    <string name="hint_port">Port</string>
+    <string name="hint_host_help">Enter your machine\'s Tailscale IP address.
+Find it with: tailscale ip -4</string>
+    <string name="save">Save Connection</string>
+</resources>
